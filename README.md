@@ -1,6 +1,9 @@
 # Gitの練習用ファイル
 ## コミットの方法
 ### main main main  
+
+1. プッシュの練習1
+
 ---
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
